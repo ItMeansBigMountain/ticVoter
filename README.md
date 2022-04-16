@@ -1,3 +1,7 @@
+API ENDPOINT IN /api_config
+    change firebase.js api keys as well
+
+
 npm install @react-navigation/native
 
 expo install react-native-screens react-native-safe-area-context
